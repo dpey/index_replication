@@ -1,0 +1,26 @@
+Company,Weight,Country,Ticker
+microsoft corp,5.3020000000000005,United States,MSFT
+apple inc,5.191,United States,AAPL
+amazon com inc,4.07,United States,AMZN
+facebook inc,1.8969999999999998,United States,FB
+alphabet inc cl a,1.4809999999999999,United States,GOOGL
+alphabet inc cl c,1.4569999999999999,United States,GOOG
+johnson & johnson,1.29,United States,JNJ
+berkshire hathaway inc,1.2109999999999999,United States,BRK-B
+visa inc,1.135,United States,V
+procter & gamble co,1.014,United States,PG
+jpmorgan chase & co,0.991,United States,JPM
+unitedhealth group inc,0.9690000000000001,United States,UNH
+home depot inc,0.9359999999999999,United States,HD
+mastercard inc,0.9079999999999999,United States,MA
+intel corp,0.882,United States,INTC
+verizon communications,0.795,United States,VZ
+nvidia corp,0.78,United States,NVDA
+at&t inc,0.75,United States,T
+adobe inc,0.7290000000000001,United States,ADBE
+paypal holdings inc,0.7120000000000001,United States,PYPL
+disney walt co,0.701,United States,DIS
+cisco systems inc,0.6890000000000001,United States,CSCO
+merck & co inc,0.68,United States,MRK
+netflix inc,0.6729999999999999,United States,NFLX
+exxon mobil corp,0.6579999999999999,United States,XOM
